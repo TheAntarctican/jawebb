@@ -9,9 +9,150 @@
 title: Your awesome title
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Card Collection
+Existing Decks: 
+	Commander: 
+		Mono blue JVP
+	Standard: 
+		(none)
+	Modern: 
+		(none)
+	Limited:
+		(none)
+	Casual: 
+		Death and Taxes (D&T),
+		Blue-Green (BG),
+		Mono-White Angels (A),
+		Zada (Z), 
+		Counter-Exile (CE),
+		Mill (M),
+		Infect (I),
+		Eldrazi (E),
+		Goblins (G)
+______________________________________________________________________________
+Mythics:
+	In Decks:
+		1x   Archangel's Light (A)
+		1x   Archangel of Tithes (A) 
+		1x   Brutal Hordechief (D&T)
+		1x   Descend upon the Sinful (D&T)
+		1x   Dragonlord Ojutai (CE)
+		1x   Elspeth Tirel (D&T)
+		1x   Gisela, the Broken Blade (CE)
+		1x   Jace, the Living Guildpact (CE)
+		1x   Lilliana Vess (D&T)
+		1x   Medomai the Ageless (CE)
+		1x   Phyrexian Obliterator (D&T)
+		1x   Sorin, Grim Nemesis (D&T)
+		1x   Sorin, Solemn Visitor (D&T)
+		1x   Venser, the Sojourner (CE)
+		2x   Wingmate Roc (CE)
+	Awaiting Deck:
+
+Rares:
+	In Decks:
+		1x   Aetherling (CE)
+		1x   Angel of Glory's Rise (A)
+		1x   Angelic Skirmisher (A)
+		2x   Anguished Unmaking (D&T)
+		2x   Caves of Koilos (D&T)
+		1x   Consume the Meek (D&T)
+		1x   Day of Judgment (A)
+		1x   Detention Sphere (CE)
+		1x   Divine Reckoning (A)
+		1x   Flooded Strand (CE)
+		1x   Hanweir Militia Captain (D&T)
+		1x   Hero's Downfall (D&T)
+		3x   Isolated Chapel (D&T)
+		1x   Kambal, Consul of Allocation (D&T)
+		1x   Killing Wave (D&T)
+		1x   Mirror Mockery (CE)
+		1x   Odric, Lunarch Marshal (CE)
+		1x   Ojutai's Command (CE)
+		1x   Port Town (CE)
+		1x   Redirect (CE)
+		1x   Resolute Archangel (A)
+		2x   Sanguine Bond (D&T)
+		1x   Seraph of the Sword (A)
+		1x   Shambling Vent (D&T)
+		1x   Sididi, Undead Vizier (D&T)
+		2x   Sunblast Angel (A)
+		1x   Sunscorch Regent (CE)
+		1x   Supreme Verdict (CE)
+		2x   Tragic Arrogance (CE)
+		1x   Tromokratis (CE)
+		1x   Remorseless Punishment (D&T)
+		2x   Rhox Faithmender (D&T)
+		1x   Ruinous Path (D&T)
+		1x   Urborg, Tomb of Yawgmoth (D&T)
+		1x   Westvale Abbey (D&T)
+		2x   Whip of Erebos (D&T)
+	Awaiting Deck:
+______________________________________________________________________________
+Uncommons:
+	In Decks:
+		2x   Ajani's Pridemate (A)
+		1x   Banishing Light (CE)
+		1x   Broken Concentration (CE)
+		1x   Congregate (D&T)
+		1x   Counterspell (CE)
+		3x   Crusader of Odric (A)
+		1x   Curse of Exhaustion (A)
+		2x   Dissipate (CE)
+		2x   Dissolve (CE)
+		1x   Emancipation Angel (A)
+		1x   Flood Plain (CE)
+		1x   Ghostly Prison (D&T)
+		1x   god-favored General (A)
+		2x   Immolating Glare (CE)
+		3x   Lingering Souls (D&T)
+		4x   Oblivion Ring (CE)(A)
+		1x   Ordeal of Heliod (A)
+		1x   Paragon of New Dawns (A)
+		1x   Path to Exile (CE)
+		1x   Patron of the Valiant (A)
+		1x   Pious Evangel (D&T)
+		2x   Sejiri Refuge (CE)
+		1x   Seraph of the Masses (A)
+		3x   Serra Angel (A)
+		1x   Tidehollow Sculler (D&T)
+		2x   Transgress the Mind (D&T)
+		1x   Vampire Nighthawk (D&T)
+		2x   Wall of Essence (A)
+	Awaiting Deck:
+______________________________________________________________________________
+Commons:
+	In Decks:
+		1x   Angel's Mercy (A)
+		1x   Attended Knight (A)
+		2x   Cancel (CE)
+		2x   Chaplain's Blessing (D&T)
+		3x   Evolving Wilds (CE)
+		1x   Exclude (CE)
+		2x   Glorious Charge (A)
+		1x   Mana Leak (CE)
+		1x   Murder (D&T)
+		3x   Pacifism (A)
+		1x   Seraph of Dawn (A)
+		1x   Voice of the Provinces (A)
+	Awaiting Deck:
+______________________________________________________________________________
+Lands:
+	In Decks:
+		8x   IslandN 4(CE)
+		29x   PlainsN (D&T)(CE)(A)
+		6x   PlainsFA (D&T)
+		3x   Radiant Fountain (A)
+		2x   Scoured Barrens (D&T)
+		7x   SwampFA (D&T)
+	Awaiting Deck:
+______________________________________________________________________________
+Tokens:
+______________________________________________________________________________
+Info Cards:
+______________________________________________________________________________
+Sleeves:
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
