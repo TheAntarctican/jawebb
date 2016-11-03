@@ -9,7 +9,7 @@
 title: Your awesome title
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Card Collection
+  "Card Collection
 Existing Decks: 
 	Commander: 
 		Mono blue JVP
@@ -151,7 +151,7 @@ Tokens:
 ______________________________________________________________________________
 Info Cards:
 ______________________________________________________________________________
-Sleeves:
+Sleeves:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
