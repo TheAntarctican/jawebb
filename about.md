@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
+title: What is this page?
 permalink: /about/
 ---
-
-This is a website that is in the making to do some things that are currently unknown. As knowledge increases, so too will this website. 
+This website was something started years ago that was meant to be a catalog for a game I no longer play. Now it will be a repository for Word Documents for notes about the Bible.
